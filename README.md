@@ -1,4 +1,4 @@
-# 👋 你好，我是 陈苏恺（CZAsTc）
+# 👋 你好，我是 CZAsTc
 
 **Python & GitHub Actions 学习者**  
 使用 **Python** 进行自动化任务和天文计算，探索与实践 **GitHub Actions**。
