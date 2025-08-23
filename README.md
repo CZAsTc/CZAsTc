@@ -23,6 +23,13 @@
 
 ## 🧠 我的 GitHub 统计
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CZAsTc/CZAsTc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CZAsTc/CZAsTc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CZAsTc/CZAsTc/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
 ![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=czastc&show_icons=true&locale=cn)
 
 ![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs?username=czastc&show_icons=true&locale=cn&layout=compact)
@@ -33,13 +40,14 @@
 
 - 🌐 [个人网站](https://czastc.pages.dev)
 
-### 🏁 我的 GitHub 项目
+<!--### 🏁 我的 GitHub 项目
 
 - **[AstroKit](https://github.com/CZAsTc/AstroKit)**  
   使用 **Skyfield** 进行星体轨迹计算和天文数据分析，支持卫星轨道的可视化和精确的天文计算。
 
 - **[ProxyGeoConfig](https://github.com/CZAsTc/ProxyGeoConfig)**  
   基于 **GeoIP2** 的 IP 地址地理位置查询工具。
+-->
 
 ## 🖥️ 随手写的一段 Python 代码
 
